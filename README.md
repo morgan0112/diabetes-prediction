@@ -15,7 +15,7 @@ Glucose then stays in your blood and doesn’t reach your cells.
 
 ## Summary
 Finding a way to assist medical professionals to detect early signs of diabetes but using a machine learning model to predict the current state of a patient. 
-This model can be deployed into a web application and helps patients identify their current state based on their current medical records.
+This model was deployed into a Django web application to help patients identify their current condition based on their current medical records.
 
 Pre-diabetes is the entry point of patients developing diabetes therefore patients who got a predict of pre-diabetes can take measures before complications 
 occurs that can leave them in a weakened state.
