@@ -1,4 +1,4 @@
-# Diabetes Analysis
+# Diabetes Detection
 
 Diabetes mellitus is a leading cause of mortality and reduced life expectancy.
 
