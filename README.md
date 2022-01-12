@@ -19,3 +19,5 @@ This model was deployed into a Django web application to help patients identify 
 
 Pre-diabetes is the entry point of patients developing diabetes therefore patients who got a predict of pre-diabetes can take measures before complications 
 occurs that can leave them in a weakened state.
+
+#### The model was deployed to a Django web application and can be trained continuously on new data.
